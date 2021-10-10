@@ -1,0 +1,12 @@
+[
+    {
+        "firstName": "Dewan Minhajul",
+        "lastName": "Islam",
+        "age": "24",
+        "designation": "Junior Programmer",
+        "language": "PHP",
+        "email": "dminhaj.vrsty04@gmail.com",
+        "password": "1234",
+        "image": "images\/"
+    }
+]	
